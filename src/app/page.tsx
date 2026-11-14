@@ -34,7 +34,7 @@ export default function Home() {
 
         {/* 한 줄 소개글 */}
         <p className="text-sm text-zinc-600 leading-relaxed break-keep">
-          일상을 기록하고 유용한 정보와 좋아하는 것들을 공유합니다 ✨
+          상명대학교 24학번 김서윤 :)
         </p>
       </section>
     </div>
